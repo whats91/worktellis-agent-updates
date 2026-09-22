@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "keyId": "worktellis-prod-2026-09-53e399d530a1",
   "algorithm": "ecdsa-p256-sha256-der",
-  "manifestSha256": "caa8402ed12880149ecaa2ecb2b43b7db821ab1f521ec4b5ec4067b393aabc3a",
-  "signature": "MEUCIBRSXCA4enPcMsCYkisXYeMt6fosFFzoL4C0hVWqSiXrAiEA2EnxoYGCfaVD9EHYG49DX4cvue4lwyh4PSBaCdmdy9s="
+  "manifestSha256": "13d1f53f897b5c752c22f9e269bc3b5d0ed4109b2344460e4339b440a6b10af5",
+  "signature": "MEQCIHcJL/1cMmmacxfN5HR7yU0m/6XJgP9Gkc6UieVKWv2TAiAUCcT1vjWPl6MfCm8nfQ2YdE2WkijvlPQG+8ES8xW1sA=="
 }
